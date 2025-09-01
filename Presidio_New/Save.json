@@ -1,0 +1,12 @@
+{
+  "PERSON": {
+    "Roy Martin": "slim shady"
+  },
+  "PHONE_NUMBER": {
+    "+1-649-359-3103": "313-666-7559",
+    "538.990.8386": "4916 0382 3232 0732"
+  },
+  "EMAIL_ADDRESS": {
+    "jpeterson@example.org": "real.slim.shady@gmail.com"
+  }
+}
